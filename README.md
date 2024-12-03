@@ -1,6 +1,8 @@
-UI Design Report: Atomic Design Methodology and Critique of Portfolio Page
-Introduction
-In this report, I will analyze the user interface (UI) of my portfolio page using the Atomic Design methodology. The atomic design principles are utilized to break down the UI components into smaller, reusable pieces, which helps ensure scalability and maintainability. I will also provide a critique of various elements, including interactions, responsiveness, and accessibility considerations.
+##UI Design Report: Atomic Design Methodology and Critique of Portfolio Page
+
+##Introduction
+
+In this report, I have analyzed the user interface (UI) of my portfolio page using the Atomic Design methodology. The atomic design principles are utilized to break down the UI components into smaller, reusable pieces, which helps ensure scalability and maintainability. I will also provide a critique of various elements, including interactions, responsiveness, and accessibility considerations.
 
 Atomic Design Methodology
 Atomic design is a methodology developed by Brad Frost that structures UI components in a hierarchical, reusable manner. The design process involves breaking down UI elements into five levels of complexity:
