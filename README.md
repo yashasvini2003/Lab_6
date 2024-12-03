@@ -1,6 +1,6 @@
-##UI Design Report: Atomic Design Methodology and Critique of Portfolio Page
+UI Design Report: Atomic Design Methodology and Critique of Portfolio Page
 
-##Introduction
+Introduction
 
 In this report, I have analyzed the user interface (UI) of my portfolio page using the Atomic Design methodology. The atomic design principles are utilized to break down the UI components into smaller, reusable pieces, which helps ensure scalability and maintainability. I will also provide a critique of various elements, including interactions, responsiveness, and accessibility considerations.
 
